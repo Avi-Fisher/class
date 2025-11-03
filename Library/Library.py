@@ -8,5 +8,5 @@ class Library():
         self.user = user
 
 
-    def register_user(self,user):
+    # def register_user(self,user):
 
